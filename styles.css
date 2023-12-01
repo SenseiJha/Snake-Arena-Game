@@ -1,0 +1,9 @@
+body{
+    background-color: chartreuse;
+    margin-left: 25%;
+}
+
+canvas{
+    background-image: url("arena.jpg");
+    border: 25px solid gray;
+}
